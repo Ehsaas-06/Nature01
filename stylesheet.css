@@ -1,0 +1,37 @@
+.inline-block{
+    display: flex;
+}
+
+h2{
+    text-decoration: underline;
+    text-align: center;
+    /* font-size: 20px; */
+    font-weight: bold;
+    font-size: 200%;
+
+}
+
+
+h3{
+    text-align: center;
+}
+
+p.special{
+    /* border-style: solid; */
+    padding:50px;
+    text-align: center;
+    border-color:darkslategray;
+    margin: 100px;
+    /* background-color:lightgrey; */
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+.end{
+    text-align: center;
+    margin: 100px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+}
